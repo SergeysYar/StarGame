@@ -1,0 +1,15 @@
+E:\_Work\LUXKOD\Никита\StarGame\StarGame\bin\Debug\net6.0\StarGame.exe
+E:\_Work\LUXKOD\Никита\StarGame\StarGame\bin\Debug\net6.0\StarGame.deps.json
+E:\_Work\LUXKOD\Никита\StarGame\StarGame\bin\Debug\net6.0\StarGame.runtimeconfig.json
+E:\_Work\LUXKOD\Никита\StarGame\StarGame\bin\Debug\net6.0\StarGame.dll
+E:\_Work\LUXKOD\Никита\StarGame\StarGame\bin\Debug\net6.0\StarGame.pdb
+E:\_Work\LUXKOD\Никита\StarGame\StarGame\obj\Debug\net6.0\StarGame.csproj.AssemblyReference.cache
+E:\_Work\LUXKOD\Никита\StarGame\StarGame\obj\Debug\net6.0\StarGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\_Work\LUXKOD\Никита\StarGame\StarGame\obj\Debug\net6.0\StarGame.AssemblyInfoInputs.cache
+E:\_Work\LUXKOD\Никита\StarGame\StarGame\obj\Debug\net6.0\StarGame.AssemblyInfo.cs
+E:\_Work\LUXKOD\Никита\StarGame\StarGame\obj\Debug\net6.0\StarGame.csproj.CoreCompileInputs.cache
+E:\_Work\LUXKOD\Никита\StarGame\StarGame\obj\Debug\net6.0\StarGame.dll
+E:\_Work\LUXKOD\Никита\StarGame\StarGame\obj\Debug\net6.0\refint\StarGame.dll
+E:\_Work\LUXKOD\Никита\StarGame\StarGame\obj\Debug\net6.0\StarGame.pdb
+E:\_Work\LUXKOD\Никита\StarGame\StarGame\obj\Debug\net6.0\StarGame.genruntimeconfig.cache
+E:\_Work\LUXKOD\Никита\StarGame\StarGame\obj\Debug\net6.0\ref\StarGame.dll

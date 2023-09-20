@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7Afsi9+CSkyS1QJvU7VDaxG8yDC6Zuj3UilDaUeRL4my3Bc9dmUUgJUI1L1C9w7tlRXSIOmoB25OTXXc3wZZqQ==",
+  "success": true,
+  "projectFilePath": "E:\\_Work\\LUXKOD\\Никита\\StarGame\\StarGame\\StarGame.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.22\\microsoft.windowsdesktop.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.22\\microsoft.netcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.22\\microsoft.aspnetcore.app.ref.6.0.22.nupkg.sha512",
+    "C:\\Users\\Сергей\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.22\\microsoft.netcore.app.host.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
